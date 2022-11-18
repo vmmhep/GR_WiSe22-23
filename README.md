@@ -10,10 +10,10 @@ which will make a directory in your `HOME` directory called `GR22` and then copy
 [^0]: Unfortunately, I don't have access to a Windows machine and so am not able to provide guidance.  However, some online searching should bring you all the steps you need.
 
 [^1]: After initially `pull`ing the repository, you will only need to 
-```bash
-cd $HOME/GR22 && git pull https://github.com/vmmhep/GR_WiSe22-23.git
-``` 
-to get updates.
+  ```bash
+  cd $HOME/GR22 && git pull https://github.com/vmmhep/GR_WiSe22-23.git
+  ``` 
+  to get updates.
 
 If you don't have a `jupyter` instance installed on your computer, we suggest using a `docker` container.  You can install `docker` by following the instructions on [this webpage](https://docs.docker.com/get-docker/).[^2]
 
