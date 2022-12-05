@@ -23,7 +23,7 @@ Once there, you can look for a `docker` container that gives you a `jupyter` ins
 
 After that, load up `jupyter` and navigate to the `GR22` directory and bring up the specific notebook.  Most sheets will only be `markdown`, however, as the course advances, some numerics will be included and will therefore require `jupyter` to have a `python` or `julia` kernel running.
 
-You can also run the notebooks in the cloud using the `binder` links provided:
+You can also run the notebooks in the cloud using the `binder` links provided:<br>
 Click here to load exercises 1 <br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/main?labpath=exercises1.ipynb)
 
