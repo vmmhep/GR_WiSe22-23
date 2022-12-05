@@ -25,9 +25,9 @@ After that, load up `jupyter` and navigate to the `GR22` directory and bring up 
 
 You can also run the notebooks in the cloud using the `binder` links provided:
 Click here to load exercises 1 <br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/blob/main/exercises1.ipynb/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/main?labpath=exercises1.ipynb)
 
 Click here to load exercises 2 <br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/blob/main/exercises2.ipynb/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/main?labpath=exercises2.ipynb)
 
 Enjoy the course!
