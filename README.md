@@ -30,4 +30,10 @@ Click here to load exercises 1 <br>
 Click here to load exercises 2 <br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/main?labpath=exercises2.ipynb)
 
+Click here to load exercises 3 <br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/main?labpath=exercises3.ipynb)
+
+Click here to load exercises 4 <br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmmhep/GR_WiSe22-23/main?labpath=exercises4.ipynb)
+
 Enjoy the course!
